@@ -1,5 +1,5 @@
-# AI-Chatbot
-A simple and interactive AI-powered chatbot built using HTML, CSS, and JavaScript. This project demonstrates how to create a conversational interface.
+# Chatbot
+A simple and interactive chatbot built using HTML, CSS and JavaScript. This project demonstrates how to create a conversational interface.
 
 Feature:
 Clean, responsive chat interface
